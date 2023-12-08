@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T13:38:49.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4jEOAd-etpwPJ3ws7nEG" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T13:41:24.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="j6INV_JjH2VOIDDTooPe" version="22.1.7" type="github">
   <diagram name="第 1 页" id="_pGcNhD7Bbz_a0pf2VkH">
     <mxGraphModel dx="794" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="UGleV3NYl0aYAame72-G-13" value="激活值线性量化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="820" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UGleV3NYl0aYAame72-G-19" value="范数剪枝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="UGleV3NYl0aYAame72-G-19" value="结构化剪枝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UGleV3NYl0aYAame72-G-21" value="参数量化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
