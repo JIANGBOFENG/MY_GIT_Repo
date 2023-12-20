@@ -1,9 +1,198 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T04:05:40.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="Q4zuQFa8d_0hCpe88j_X" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T06:25:01.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yFYLeYHIdynyJN-WMnwf" version="22.1.11" type="github">
   <diagram name="第 1 页" id="MW0tD9vEuxQ4wjxk8LT8">
-    <mxGraphModel>
+    <mxGraphModel dx="1103" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IEWdHHS3KTzempWpxFYI-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="250" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-65" target="IEWdHHS3KTzempWpxFYI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;shape=link;edgeStyle=elbowEdgeStyle;elbow=vertical;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-3" target="IEWdHHS3KTzempWpxFYI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;edgeStyle=elbowEdgeStyle;elbow=vertical;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-3" target="IEWdHHS3KTzempWpxFYI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-3" value="第一章 绪论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-4" target="IEWdHHS3KTzempWpxFYI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-4" target="IEWdHHS3KTzempWpxFYI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-4" value="第二章 相关背景介绍" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-5" target="IEWdHHS3KTzempWpxFYI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-5" value="第三章 剪枝+训练后量化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="240" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-6" target="IEWdHHS3KTzempWpxFYI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-6" value="第四章 剪枝+训练感知量化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="240" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-7" value="第五章 压缩算法部署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-8" target="IEWdHHS3KTzempWpxFYI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="330" />
+              <mxPoint x="65" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-8" target="IEWdHHS3KTzempWpxFYI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-8" target="IEWdHHS3KTzempWpxFYI-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="330" />
+              <mxPoint x="285" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-8" value="基于训练后量化的结构化剪枝技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-9" target="IEWdHHS3KTzempWpxFYI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-9" target="IEWdHHS3KTzempWpxFYI-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="330" />
+              <mxPoint x="425" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-9" target="IEWdHHS3KTzempWpxFYI-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="330" />
+              <mxPoint x="645" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-9" value="基于训练感知量化的混合剪枝技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="290" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-11" value="范数剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-12" value="线性量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-13" value="可适应性量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-14" value="混合剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-16" target="IEWdHHS3KTzempWpxFYI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-16" value="合并BN层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-17" target="IEWdHHS3KTzempWpxFYI-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="540" />
+              <mxPoint x="225" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-31" target="IEWdHHS3KTzempWpxFYI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-17" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;基于硬件约束的深度神经网络压缩算法部署工作流&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-20" value="TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-21" value="SNPE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-23" value="第六章 总结与展望" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-24" target="IEWdHHS3KTzempWpxFYI-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="630" />
+              <mxPoint x="280" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-24" target="IEWdHHS3KTzempWpxFYI-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="630" />
+              <mxPoint x="430" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-24" value="转换接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-25" value="再训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-26" value="伪量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-28" value="研究现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-29" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-30" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-31" target="IEWdHHS3KTzempWpxFYI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-31" value="硬件部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.559;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;shape=link;edgeStyle=elbowEdgeStyle;elbow=vertical;width=1;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-3" target="IEWdHHS3KTzempWpxFYI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-66" target="IEWdHHS3KTzempWpxFYI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-67" target="IEWdHHS3KTzempWpxFYI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEWdHHS3KTzempWpxFYI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IEWdHHS3KTzempWpxFYI-68" target="IEWdHHS3KTzempWpxFYI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
