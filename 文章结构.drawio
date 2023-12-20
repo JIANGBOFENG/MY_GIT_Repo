@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T06:25:01.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yFYLeYHIdynyJN-WMnwf" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T06:25:47.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2_vB4v691ZnFQ6PqnZ3q" version="22.1.11" type="github">
   <diagram name="第 1 页" id="MW0tD9vEuxQ4wjxk8LT8">
     <mxGraphModel dx="1103" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="IEWdHHS3KTzempWpxFYI-9" value="基于训练感知量化的混合剪枝技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="290" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IEWdHHS3KTzempWpxFYI-11" value="范数剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IEWdHHS3KTzempWpxFYI-11" value="结构化剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IEWdHHS3KTzempWpxFYI-12" value="线性量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
