@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T13:06:21.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="HEnibDV3MVsL2o6ee-64" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T07:54:23.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wttpzRq_MD0FjIIPVpzg" version="22.1.15" type="github">
   <diagram name="第 1 页" id="dukAcAweQU1gUv-l-ATB">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="54U8Kt-tH-zxKX4QUkT5-1" target="54U8Kt-tH-zxKX4QUkT5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-1" value="预训练模型&lt;br&gt;Pretrained Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="54U8Kt-tH-zxKX4QUkT5-2" target="54U8Kt-tH-zxKX4QUkT5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-2" value="数据校准&lt;br&gt;Calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="54U8Kt-tH-zxKX4QUkT5-3" target="54U8Kt-tH-zxKX4QUkT5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-3" value="计算量化参数&lt;br&gt;Computing Scales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54U8Kt-tH-zxKX4QUkT5-4" value="输出量化模型&lt;br&gt;Quantization&lt;br&gt;for Inference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
